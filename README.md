@@ -2,8 +2,8 @@
 
 ## Tabla de contenidos
 1. [Informacion General](#informacin-general)
-2. [Tecnologias](#tecnologas)
-3. [Instalacion](#instalacin)
+2. [Tecnologias](#tecnologias)
+3. [Instalacion](#instalacion)
 4. [FAQs](#faqs)
 ### Información general
 ***
@@ -17,7 +17,7 @@ todos los aspectos de una empresa.
 ### Screenshot
 
 [//]: # (![Image text]&#40;https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg&#41;)
-## Tecnologías
+## Tecnologias
 ***
 Una lista de las tecnologias utilizadas en el backend:
 * [Spring Booot](https://spring.io/): Version 3.0.3
@@ -25,7 +25,7 @@ Una lista de las tecnologias utilizadas en el backend:
 * [MySql](https://www.mysql.com/): Version 8.0.32
 * [Docker](https://www.docker.com/)
 * 
-## Instalación
+## Instalacion
 ***
 Como instalar el backend:
 ```
