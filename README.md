@@ -1,7 +1,7 @@
 # erp-solved-backend
 
 ## Tabla de contenidos
-1. [Informacion General](#informacion-general)
+1. [Informacion General](#información-general)
 2. [Tecnologias](#tecnologias)
 3. [Instalacion](#instalacion)
 4. [FAQs](#faqs)
