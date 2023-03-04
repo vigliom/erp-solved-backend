@@ -38,7 +38,7 @@ version de ```MySql``` con los siguientes parametros:
  * Nombre de la BD: ERPSolved
  * user de la BD: root
  * password de la BD: root
-> Pudes cambiar el nombre de todos los datos, pero sera necesario corregirlo despues en el applicationproperties.
+> Pudes cambiar el nombre de todos los datos, pero sera necesario corregirlo despues en el application.properties.
 
 ## FAQs
 ***
